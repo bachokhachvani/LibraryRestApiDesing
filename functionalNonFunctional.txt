@@ -1,0 +1,35 @@
+User Management
+
+Users can register, log in, and log out.
+Users can update their profile information.
+Book Management
+
+Add new books to the catalogue with detailed information (title, author, category, ISBN, publish date, copies available).
+Update book information.
+Delete books from the catalogue.
+Search for books by title, author, ISBN, and category.
+Check out and return books, updating the availability of each book.
+Author Management
+
+Add new authors with detailed information (name, biography, country).
+Update author information.
+Delete authors.
+List all authors with optional pagination.
+View books by a specific author.
+Category Management
+
+Add new categories for books.
+Update category information.
+Delete categories.
+List all categories with optional pagination.
+View books in a specific category.
+Borrowing System
+
+Users can check out available books.
+Users can return books and update the system accordingly.
+The system tracks the borrowing history of users.
+Reservation System
+
+Users can reserve books that are currently checked out.
+Notifications are sent to users when their reserved books are available.
+Non-Functional Requirements

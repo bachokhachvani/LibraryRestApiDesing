@@ -1,0 +1,18 @@
+Books
+GET /books - List all books, with optional query parameters for pagination (page, limit), filtering (author, category, available).
+GET /books/{id} - Get a specific book by its ID.
+POST /books - Create a new book. Requires a JSON body with book details.
+PUT /books/{id} - Update the details of a specific book.
+DELETE /books/{id} - Delete a specific book.
+Authors
+GET /authors - List all authors, with optional query parameters for pagination and filtering.
+GET /authors/{id} - Get a specific author by ID.
+POST /authors - Create a new author.
+PUT /authors/{id} - Update an author's details.
+DELETE /authors/{id} - Delete an author.
+Categories
+GET /categories - List all categories, with optional pagination.
+GET /categories/{id} - Get a specific category by ID.
+POST /categories - Create a new category.
+PUT /categories/{id} - Update a category's details.
+DELETE /categories/{id} - Delete a category.

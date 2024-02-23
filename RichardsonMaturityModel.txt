@@ -1,0 +1,6 @@
+This API design aims for Level 2 of the Richardson Maturity Model:
+
+Level 0: Using HTTP as a transport system for remote interactions.
+Level 1: Introducing resources.
+Level 2: Using HTTP methods explicitly and handling resources individually.
+Level 3: Utilizing HATEOAS (Hypermedia as the Engine of Application State) for self-discoverability of the API.

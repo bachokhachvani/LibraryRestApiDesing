@@ -1,0 +1,21 @@
+Books
+Get a list of books
+Pagination and filtering by category, author, and availability.
+Get a specific book by ID
+Create a new book
+Update a book
+Delete a book
+Authors
+Get a list of authors
+Pagination and filtering by name or country.
+Get a specific author by ID
+Create a new author
+Update an author's information
+Delete an author
+Categories
+Get a list of categories
+Pagination.
+Get a specific category by ID
+Create a new category
+Update a category
+Delete a category

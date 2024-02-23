@@ -1,0 +1,8 @@
+Entities Description
+
+Books
+Attributes: ID, Title, AuthorID, CategoryID, ISBN, PublishDate, AvailableCopies, TotalCopies
+Authors
+Attributes: AuthorID, Name, Bio, Country
+Categories
+Attributes: CategoryID, Name, Description
